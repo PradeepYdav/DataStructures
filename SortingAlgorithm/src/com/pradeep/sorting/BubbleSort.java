@@ -1,4 +1,4 @@
-package com.pradeep.sorting.BubbleSort;
+package com.pradeep.sorting;
 
 public class BubbleSort {
 

@@ -1,4 +1,4 @@
-package com.pradeep.sorting.SelctionSort;
+package com.pradeep.sorting;
 
 public class SelectionSort {
 
